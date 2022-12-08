@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 27602,
-	"name": "NewProject",
+	"savedWithRelease": 32100,
+	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "0e7jerna92b",
+	"uniqueId": "zze9ry5qdj7",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -53,17 +53,9 @@
 		"icon": {
 			"items": [
 				{
-					"name": "icon-64.png",
-					"type": "image/png",
-					"sid": 134411641029983,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
 					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 493111253924738,
+					"sid": 400353626389746,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -71,15 +63,7 @@
 				{
 					"name": "icon-128.png",
 					"type": "image/png",
-					"sid": 680757204158937,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icon-32.png",
-					"type": "image/png",
-					"sid": 218694149399092,
+					"sid": 726623773325131,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -87,15 +71,31 @@
 				{
 					"name": "loading-logo.png",
 					"type": "image/png",
-					"sid": 426980628553814,
+					"sid": 321630528077655,
 					"icon-info": {
 						"purpose": "loading-logo"
 					}
 				},
 				{
+					"name": "icon-32.png",
+					"type": "image/png",
+					"sid": 575694094046771,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-64.png",
+					"type": "image/png",
+					"sid": 135253051937054,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
 					"name": "icon-256.png",
 					"type": "image/png",
-					"sid": 213831454542988,
+					"sid": 651706665733197,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -103,7 +103,7 @@
 				{
 					"name": "icon-512.png",
 					"type": "image/png",
-					"sid": 948385871817602,
+					"sid": 747712876771131,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -135,6 +135,8 @@
 		"authorWebsite": "",
 		"appId": "",
 		"pixelRounding": false,
+		"zAxisScale": "normalized",
+		"fov": 0.7853981633974483,
 		"useLoaderLayout": false,
 		"fullscreenMode": "letterbox-scale",
 		"fullscreenQuality": "high",
@@ -168,11 +170,15 @@
 		"downscaling": "medium",
 		"renderingMode": "auto",
 		"anisotropicFiltering": "auto",
+		"zNear": 1,
+		"zFar": 10000,
 		"maxSpriteSheetSize": 2048,
 		"loaderStyle": "splash",
 		"preloadSounds": true,
 		"cordovaiOSScheme": "app",
-		"cordovaAndroidScheme": "https"
+		"cordovaAndroidScheme": "https",
+		"autoReloadScriptsOnPreview": false,
+		"exportFileStructure": "folders"
 	},
 	"viewportWidth": 1280,
 	"viewportHeight": 720,

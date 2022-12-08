@@ -6,9 +6,10 @@
 			"overriden": 0,
 			"subLayers": [],
 			"instances": [],
-			"sid": 282091057437099,
+			"sid": 599867640450639,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
+			"isInitiallyInteractive": true,
 			"color": [
 				1,
 				1,
@@ -34,7 +35,7 @@
 			"global": false
 		}
 	],
-	"sid": 198756595976706,
+	"sid": 319336471552907,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 2560,
