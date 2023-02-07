@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 32100,
+	"savedWithRelease": 32702,
 	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "zze9ry5qdj7",
+	"uniqueId": "y1ttgs5i0j7",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -55,7 +55,15 @@
 				{
 					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 400353626389746,
+					"sid": 996991092609569,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-32.png",
+					"type": "image/png",
+					"sid": 466731361135770,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -63,23 +71,7 @@
 				{
 					"name": "icon-128.png",
 					"type": "image/png",
-					"sid": 726623773325131,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "loading-logo.png",
-					"type": "image/png",
-					"sid": 321630528077655,
-					"icon-info": {
-						"purpose": "loading-logo"
-					}
-				},
-				{
-					"name": "icon-32.png",
-					"type": "image/png",
-					"sid": 575694094046771,
+					"sid": 702271478662963,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -87,7 +79,23 @@
 				{
 					"name": "icon-64.png",
 					"type": "image/png",
-					"sid": 135253051937054,
+					"sid": 117947226983010,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "loading-logo.png",
+					"type": "image/png",
+					"sid": 120315222035748,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				},
+				{
+					"name": "icon-512.png",
+					"type": "image/png",
+					"sid": 390073781705245,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -95,15 +103,7 @@
 				{
 					"name": "icon-256.png",
 					"type": "image/png",
-					"sid": 651706665733197,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icon-512.png",
-					"type": "image/png",
-					"sid": 747712876771131,
+					"sid": 842201912931205,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
