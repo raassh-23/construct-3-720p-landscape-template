@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 32702,
+	"savedWithRelease": 33600,
 	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "y1ttgs5i0j7",
+	"uniqueId": "sr0ufd87kzc",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -53,25 +53,33 @@
 		"icon": {
 			"items": [
 				{
+					"name": "loading-logo.png",
+					"type": "image/png",
+					"sid": 289262781304749,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				},
+				{
+					"name": "icon-256.png",
+					"type": "image/png",
+					"sid": 422175451440968,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-512.png",
+					"type": "image/png",
+					"sid": 340094448323938,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
 					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 996991092609569,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icon-32.png",
-					"type": "image/png",
-					"sid": 466731361135770,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icon-128.png",
-					"type": "image/png",
-					"sid": 702271478662963,
+					"sid": 255014900683939,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -79,31 +87,23 @@
 				{
 					"name": "icon-64.png",
 					"type": "image/png",
-					"sid": 117947226983010,
+					"sid": 169732889295434,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "loading-logo.png",
+					"name": "icon-32.png",
 					"type": "image/png",
-					"sid": 120315222035748,
-					"icon-info": {
-						"purpose": "loading-logo"
-					}
-				},
-				{
-					"name": "icon-512.png",
-					"type": "image/png",
-					"sid": 390073781705245,
+					"sid": 598055849656358,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-256.png",
+					"name": "icon-128.png",
 					"type": "image/png",
-					"sid": 842201912931205,
+					"sid": 196195333317033,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
