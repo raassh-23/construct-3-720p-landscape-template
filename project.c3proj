@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 33600,
+	"savedWithRelease": 35000,
 	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "sr0ufd87kzc",
+	"uniqueId": "2pozcdwfvd2",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -53,41 +53,33 @@
 		"icon": {
 			"items": [
 				{
-					"name": "loading-logo.png",
+					"name": "icon-64.png",
 					"type": "image/png",
-					"sid": 289262781304749,
+					"sid": 426496222118221,
 					"icon-info": {
-						"purpose": "loading-logo"
+						"purpose": "app-icon"
 					}
 				},
 				{
 					"name": "icon-256.png",
 					"type": "image/png",
-					"sid": 422175451440968,
+					"sid": 491434427152094,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-512.png",
+					"name": "loading-logo.png",
 					"type": "image/png",
-					"sid": 340094448323938,
+					"sid": 118992775855676,
 					"icon-info": {
-						"purpose": "app-icon"
+						"purpose": "loading-logo"
 					}
 				},
 				{
-					"name": "icon-16.png",
+					"name": "icon-128.png",
 					"type": "image/png",
-					"sid": 255014900683939,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icon-64.png",
-					"type": "image/png",
-					"sid": 169732889295434,
+					"sid": 495394866403099,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -95,15 +87,23 @@
 				{
 					"name": "icon-32.png",
 					"type": "image/png",
-					"sid": 598055849656358,
+					"sid": 427584823516720,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-128.png",
+					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 196195333317033,
+					"sid": 563509186762403,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-512.png",
+					"type": "image/png",
+					"sid": 204033264280432,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -178,7 +178,8 @@
 		"cordovaiOSScheme": "app",
 		"cordovaAndroidScheme": "https",
 		"autoReloadScriptsOnPreview": false,
-		"exportFileStructure": "folders"
+		"exportFileStructure": "folders",
+		"uidAllocationMode": "increment"
 	},
 	"viewportWidth": 1280,
 	"viewportHeight": 720,
