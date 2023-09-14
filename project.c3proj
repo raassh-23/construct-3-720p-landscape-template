@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 35000,
+	"savedWithRelease": 35800,
 	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "2pozcdwfvd2",
+	"uniqueId": "asiyn1jlnbj",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -53,33 +53,9 @@
 		"icon": {
 			"items": [
 				{
-					"name": "icon-64.png",
+					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 426496222118221,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icon-256.png",
-					"type": "image/png",
-					"sid": 491434427152094,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "loading-logo.png",
-					"type": "image/png",
-					"sid": 118992775855676,
-					"icon-info": {
-						"purpose": "loading-logo"
-					}
-				},
-				{
-					"name": "icon-128.png",
-					"type": "image/png",
-					"sid": 495394866403099,
+					"sid": 601177133102533,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -87,15 +63,31 @@
 				{
 					"name": "icon-32.png",
 					"type": "image/png",
-					"sid": 427584823516720,
+					"sid": 549082946365642,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-16.png",
+					"name": "icon-64.png",
 					"type": "image/png",
-					"sid": 563509186762403,
+					"sid": 502809734528582,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-128.png",
+					"type": "image/png",
+					"sid": 745815135218888,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-256.png",
+					"type": "image/png",
+					"sid": 524621923538444,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -103,9 +95,17 @@
 				{
 					"name": "icon-512.png",
 					"type": "image/png",
-					"sid": 204033264280432,
+					"sid": 869347016349324,
 					"icon-info": {
 						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "loading-logo.png",
+					"type": "image/png",
+					"sid": 813389024665143,
+					"icon-info": {
+						"purpose": "loading-logo"
 					}
 				}
 			],
