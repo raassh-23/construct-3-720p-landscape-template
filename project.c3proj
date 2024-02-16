@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 36802,
+	"savedWithRelease": 37900,
 	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "3i18noc2bhh",
+	"uniqueId": "ubhvdvtbzmf",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -55,7 +55,7 @@
 				{
 					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 502754604374987,
+					"sid": 156172762233938,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -63,7 +63,7 @@
 				{
 					"name": "icon-32.png",
 					"type": "image/png",
-					"sid": 201017456860377,
+					"sid": 555394551779227,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -71,31 +71,15 @@
 				{
 					"name": "icon-64.png",
 					"type": "image/png",
-					"sid": 234738140614961,
+					"sid": 941196810430399,
 					"icon-info": {
 						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icon-512.png",
-					"type": "image/png",
-					"sid": 398794403698558,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "loading-logo.png",
-					"type": "image/png",
-					"sid": 927276304019729,
-					"icon-info": {
-						"purpose": "loading-logo"
 					}
 				},
 				{
 					"name": "icon-128.png",
 					"type": "image/png",
-					"sid": 201963445346059,
+					"sid": 333458152600905,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -103,9 +87,25 @@
 				{
 					"name": "icon-256.png",
 					"type": "image/png",
-					"sid": 567805689227786,
+					"sid": 438954700198585,
 					"icon-info": {
 						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-512.png",
+					"type": "image/png",
+					"sid": 483599804733268,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "loading-logo.png",
+					"type": "image/png",
+					"sid": 724358846899394,
+					"icon-info": {
+						"purpose": "loading-logo"
 					}
 				}
 			],
@@ -126,6 +126,10 @@
 				"subfolders": []
 			}
 		]
+	},
+	"flowcharts": {
+		"items": [],
+		"subfolders": []
 	},
 	"properties": {
 		"description": "",
