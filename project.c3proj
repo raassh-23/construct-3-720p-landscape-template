@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 37900,
+	"savedWithRelease": 38802,
 	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "ubhvdvtbzmf",
+	"uniqueId": "s18lwr65jhs",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -55,7 +55,7 @@
 				{
 					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 156172762233938,
+					"sid": 214119823158663,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -63,7 +63,7 @@
 				{
 					"name": "icon-32.png",
 					"type": "image/png",
-					"sid": 555394551779227,
+					"sid": 166586146456508,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -71,7 +71,7 @@
 				{
 					"name": "icon-64.png",
 					"type": "image/png",
-					"sid": 941196810430399,
+					"sid": 587147677771232,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -79,7 +79,7 @@
 				{
 					"name": "icon-128.png",
 					"type": "image/png",
-					"sid": 333458152600905,
+					"sid": 808329836387900,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -87,7 +87,7 @@
 				{
 					"name": "icon-256.png",
 					"type": "image/png",
-					"sid": 438954700198585,
+					"sid": 157620131476582,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -95,7 +95,7 @@
 				{
 					"name": "icon-512.png",
 					"type": "image/png",
-					"sid": 483599804733268,
+					"sid": 663619688819622,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -103,7 +103,7 @@
 				{
 					"name": "loading-logo.png",
 					"type": "image/png",
-					"sid": 724358846899394,
+					"sid": 764685663060751,
 					"icon-info": {
 						"purpose": "loading-logo"
 					}
