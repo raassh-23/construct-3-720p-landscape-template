@@ -1,6 +1,6 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 39700,
+	"savedWithRelease": 43203,
 	"name": "New project",
 	"runtime": "c3",
 	"useWorker": "auto",
@@ -134,6 +134,7 @@
 	"properties": {
 		"description": "",
 		"version": "1.0.0.0",
+		"autoIncrementVersion": false,
 		"author": "RushHourDream",
 		"authorEmail": "",
 		"authorWebsite": "",
@@ -180,7 +181,6 @@
 		"preloadSounds": true,
 		"cordovaiOSScheme": "app",
 		"cordovaAndroidScheme": "https",
-		"autoReloadScriptsOnPreview": false,
 		"exportFileStructure": "folders",
 		"uidAllocationMode": "increment"
 	},
